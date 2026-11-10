@@ -1,0 +1,2 @@
+# The simulator uses only the Python standard library.
+# Optional plotting dependencies may be added after the analysis workflow is defined.
